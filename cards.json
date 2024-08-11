@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris",
+        "topic": "Geography"
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "answer": "100°C",
+        "topic": "Science"
+    }
+]
