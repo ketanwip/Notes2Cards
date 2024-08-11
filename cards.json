@@ -1,12 +1,82 @@
 [
     {
-        "question": "What is the capital of France?",
-        "answer": "Paris",
-        "topic": "Geography"
+        "question": "What causes electricity?",
+        "answer": "Electricity is caused by the interaction of tiny, charged particles called protons and electrons. Protons have a positive charge, and electrons have a negative charge.",
+        "topic": "Electrical Energy"
     },
     {
-        "question": "What is the boiling point of water?",
-        "answer": "100°C",
-        "topic": "Science"
+        "question": "What is static electricity?",
+        "answer": "Static electricity is the buildup of charged particles in a material.",
+        "topic": "Electrical Energy"
+    },
+    {
+        "question": "Can you give examples of static electricity?",
+        "answer": "Examples include clothes rubbing together as they tumble in the dryer, getting a shock when touching a doorknob, and rubbing your hair on a balloon.",
+        "topic": "Electrical Energy"
+    },
+    {
+        "question": "What are conductors and insulators?",
+        "answer": "Conductors are materials that allow electric charges to move easily through them, like most metals (e.g., silver, gold, copper, steel). Insulators are materials that do not allow electric charges to move easily, like wood, glass, plastic, and rubber.",
+        "topic": "Electrical Energy"
+    },
+    {
+        "question": "What is an electric current?",
+        "answer": "Electric current is the flow of electric charge through a conductor.",
+        "topic": "Electric Currents and Circuits"
+    },
+    {
+        "question": "What is a circuit?",
+        "answer": "A circuit is formed when an electric current passes through an unbroken path of conductors.",
+        "topic": "Electric Currents and Circuits"
+    },
+    {
+        "question": "What is a resistor?",
+        "answer": "A resistor is a part of the electrical circuit that resists the flow of electrons. Electrons lose energy when moving through a resistor, transforming electrical energy into heat, light, or sound.",
+        "topic": "Electric Currents and Circuits"
+    },
+    {
+        "question": "What is a magnet?",
+        "answer": "A magnet is a piece of material that can attract iron, nickel, cobalt, and a few other metals. Magnets can be different shapes and sizes.",
+        "topic": "Magnets and Magnetism"
+    },
+    {
+        "question": "What is magnetism?",
+        "answer": "Magnetism is the ability of an object to push or pull on another object that has magnetic properties.",
+        "topic": "Magnets and Magnetism"
+    },
+    {
+        "question": "How do magnets interact?",
+        "answer": "Magnets attract and repel each other. Opposite poles (N & S) attract, while like poles (N & N or S & S) repel.",
+        "topic": "Magnets and Magnetism"
+    },
+    {
+        "question": "What is a magnetic field?",
+        "answer": "Magnets do not have to touch to push or pull because they are surrounded by a magnetic field. Magnetic fields explain how magnets act on each other without touching.",
+        "topic": "Magnets and Magnetism"
+    },
+    {
+        "question": "What is an electromagnet?",
+        "answer": "An electromagnet is a type of magnet whose magnetic field is produced by an electric current.",
+        "topic": "Electromagnets"
+    },
+    {
+        "question": "Why do electromagnets need a power source?",
+        "answer": "Electromagnets need a power source because the electric current produces the magnetic field.",
+        "topic": "Electromagnets"
+    },
+    {
+        "question": "Are electromagnets adjustable?",
+        "answer": "Yes, when the electric current is strong, the magnetic field is strong, and when the electric current is weak, the magnetic field is weak.",
+        "topic": "Electromagnets"
+    },
+    {
+        "question": "Can electromagnets be turned on and off?",
+        "answer": "Yes, electromagnets can be turned on and off, which makes them very useful for many applications.",
+        "topic": "Electromagnets"
+    },
+    {
+        "question": "What are human-harnessed examples of electricity?",
+        "answer": "Examples include solar panels turning light and heat from the sun into electrical energy, wind farms using the energy from wind to produce electric current, and hydroelectric dams turning the energy of moving water into electrical energy.",
+        "topic": "Human-Harnessed Electricity"
     }
 ]
